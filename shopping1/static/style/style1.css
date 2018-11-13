@@ -1,0 +1,74 @@
+*{
+  margin:0;
+  padding:0;
+}
+.table{
+
+ margin:0 auto;
+ margin-top:15px;
+
+}
+td{
+  width:100px;
+  text-align:center;
+}
+.tr1{
+  width:1000px;
+  height:50px;
+  text-align:center;
+  background-color:grey;
+  border:5px solid grey;
+  border-radius:80px;
+  }
+  
+
+.tr1 th{
+ 
+ }
+ td{
+height:150px;
+text-align:center;
+padding: 20px;
+}
+
+.td2{
+  
+ }
+.content-right{
+   overflow:hidden;
+  
+}
+.left{
+  padding-top:2px;
+  float:left;
+  margin-right:45px;
+  
+}
+.left img{
+  width:30px;
+  height:30px;
+  
+}
+.middle{
+  width:300px;
+ 
+}
+.middle img{
+  float:left;
+  margin-right:5px;
+}
+
+
+.mius{
+  float: left;
+ margin-left:10px; 
+}
+
+.plus{
+  float: right;
+  margin-right:10px;
+}
+.counts{
+
+
+}
